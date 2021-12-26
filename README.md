@@ -1,4 +1,4 @@
-# home-loan-sanction-amount
+# predict-home-loan-sanction-amount
 
 ## Problem Statement
 
